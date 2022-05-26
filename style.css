@@ -1,0 +1,64 @@
+:root {
+    --button-color: darkslateblue;
+    --button-hover-color: mediumorchid;
+    --button-text-color: white;
+}
+
+#home-page {
+    text-align: center;
+    padding:180px 0;
+}
+
+#home-page h1 {
+    font-size: 50px;
+}
+
+#home-page p {
+    font-size: 30px;
+}
+
+button {
+    background-color: var(--button-color);
+    font-size: 30px;
+    color: var(--button-text-color);
+    display: block;
+    margin: auto; 
+}
+
+button:hover, button:active {
+    background-color: var(--button-hover-color);
+}
+
+#questionButtons {
+    text-align: center;
+    padding:200px 0;
+}
+
+#questionButtons h1 {
+    font-size: 50px;
+}
+
+#questionButtons button {
+    text-align: start;
+    width: 20%;
+}
+
+#correct-text {
+    text-align: center;
+}
+
+#wrong-text {
+    text-align: center;
+}
+
+#enter-name {
+    text-align: center;
+}
+
+#highscore-page {
+    text-align: center;
+}
+
+#timer-text {
+    text-align: end;
+}
