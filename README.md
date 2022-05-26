@@ -12,7 +12,7 @@ Make a new folder, and than download everything into it. Than open that folder i
 
 ## Usage
 
-
+Go to https://sw33ws.github.io/literate-palm-tree/ and click start, then follow the instructions. (corrects answers are worth one point, wrong answers take away a point, and remove 10 seconds from the timer.
 
 ## Credits
 
